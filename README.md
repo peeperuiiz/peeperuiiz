@@ -18,4 +18,6 @@
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=peeperuiiz&theme=light&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 
+![snake svg](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 <p><strong>Gracias por visitar mi perfil y espero que encuentres algo interesante en mis repositorios.</strong></p>
