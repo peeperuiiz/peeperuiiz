@@ -6,8 +6,8 @@
 <p>Soy Pepe, un <strong>desarrollador Full Stack</strong>, entusiasta del desarrollo web y siempre en busca de nuevos retos que me permitan crecer y mejorar mis habilidades. Me apasiona crear aplicaciones funcionales que combinen buen diseño y eficiencia, tanto en el front-end como en el back-end. En mi perfil de <strong>GitHub</strong> podrás encontrar algunos de mis proyectos🚧.</p>
 
 ## ¿Qué tecnologías utilizo?📡
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,php,sql,ps)](https://skillicons.dev)
-<p>Me especializo en tecnologías de desarrollo web como <strong>HTML, CSS, JavaScript, PHP,Bootstrap</strong>. Tanto en el entorno cliente haciendo que las interfaces sean interactivas, sencillas y atractivas💻 , como en el entorno servidor tratando de hacer que todo funcione detrás de cámaras💾. A su vez trato de entregar código limpio, eficiente y bien documentado📝</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,php,mysql,ps,git)](https://skillicons.dev)
+<p>Me especializo en tecnologías de desarrollo web como <strong>HTML, CSS, JavaScript, PHP yBootstrap</strong>. Tanto en el entorno cliente haciendo que las interfaces sean interactivas, sencillas y atractivas💻 , como en el entorno servidor tratando de hacer que todo funcione detrás de cámaras💾. A su vez trato de entregar código limpio, eficiente y bien documentado📝</p>
 
 > [!NOTE]
 > <a href="peperuirom@gmail.com">EMAIL</a>📬
