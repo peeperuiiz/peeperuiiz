@@ -1,6 +1,8 @@
 ## 👋¡Hola! Soy Pepe Ruiz
 <br>
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=peeperuiiz&theme=white-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
+<p align='center'>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=peeperuiiz&theme=white-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+</p>
 
 ## ¿Quién soy?🎓
 <p>Soy Pepe, un <strong>desarrollador Full Stack</strong>, entusiasta del desarrollo web y siempre en busca de nuevos retos que me permitan crecer y mejorar mis habilidades. Me apasiona crear aplicaciones funcionales que combinen buen diseño y eficiencia, tanto en el front-end como en el back-end. En mi perfil de <strong>GitHub</strong> podrás encontrar algunos de mis proyectos🚧.</p>
@@ -11,5 +13,9 @@
 
 > [!NOTE]
 > <a href="peperuirom@gmail.com">EMAIL</a>📬
+
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=peeperuiiz&theme=light&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
 
 <p><strong>Gracias por visitar mi perfil y espero que encuentres algo interesante en mis repositorios.</strong></p>
