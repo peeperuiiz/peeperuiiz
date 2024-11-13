@@ -18,6 +18,8 @@
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=peeperuiiz&theme=light&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 
-![snake svg](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg)
+<p align='center'>
+<img src="https://github-profile-trophy.vercel.app/?username=peeperuiiz&layout=compact&theme=light&column=4&margin-w=15&margin-h=15" alt="peeperuiiz" />
+</p>
 
 <p><strong>Gracias por visitar mi perfil y espero que encuentres algo interesante en mis repositorios.</strong></p>
