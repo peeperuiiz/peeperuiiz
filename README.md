@@ -1,8 +1,9 @@
 ## 👋¡Hola! Soy Pepe Ruiz
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peeperuiiz&theme=graywhite&show_icons=true)
-
+<div align='center'>
+  <img align='center' src='https://github-readme-stats.vercel.app/api?username=peeperuiiz&show_icons=true&theme=graywhite'>
+</div>
 
 ## ¿Quién soy?🎓
 <p>Soy Pepe, un <strong>desarrollador Full Stack</strong>, entusiasta del desarrollo web y siempre en busca de nuevos retos que me permitan crecer y mejorar mis habilidades. Me apasiona crear aplicaciones funcionales que combinen buen diseño y eficiencia, tanto en el front-end como en el back-end. En mi perfil de <strong>GitHub</strong> podrás encontrar algunos de mis proyectos🚧.</p>
