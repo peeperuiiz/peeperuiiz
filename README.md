@@ -10,7 +10,7 @@
 
 ## ¿Qué tecnologías utilizo?📡
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,php,mysql,ps,git)](https://skillicons.dev)
-<p>Me especializo en tecnologías de desarrollo web como <strong>HTML, CSS, JavaScript, PHP yBootstrap</strong>. Tanto en el entorno cliente haciendo que las interfaces sean interactivas, sencillas y atractivas💻 , como en el entorno servidor tratando de hacer que todo funcione detrás de cámaras💾. A su vez trato de entregar código limpio, eficiente y bien documentado📝</p>
+<p>Me especializo en tecnologías de desarrollo web como <strong>HTML, CSS, JavaScript, PHP y Bootstrap</strong>. Tanto en el entorno cliente haciendo que las interfaces sean interactivas, sencillas y atractivas💻 , como en el entorno servidor tratando de hacer que todo funcione detrás de cámaras💾. A su vez trato de entregar código limpio, eficiente y bien documentado📝</p>
 
 > [!NOTE]
 > <a href="peperuirom@gmail.com">EMAIL</a>📬
